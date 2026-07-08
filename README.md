@@ -4,7 +4,7 @@
 
 Currently building [Preference](https://preference.net): research-driven data infrastructure for trading agents.
 
-Reach me on [X](https://x.com/morluto).
+Reach me on [X](https://x.com/morluto)
 
 #### Contributing to
 
