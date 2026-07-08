@@ -2,6 +2,10 @@
 
 [![X @morluto](https://img.shields.io/badge/X-@morluto-000?style=flat&logo=x)](https://x.com/morluto)
 
+Currently building [Preference](https://preference.net): research-driven data infrastructure for trading agents.
+
+Reach me on [X](https://x.com/morluto).
+
 #### Contributing to
 
 - **[gstack](https://github.com/garrytan/gstack)** [![GitHub stars](https://img.shields.io/github/stars/garrytan/gstack?style=flat&color=gold)](https://github.com/garrytan/gstack) - #1 outside contributor; project-local /browse install hardening and setup fixes.
