@@ -2,6 +2,8 @@
 
 [![X @morluto](https://img.shields.io/badge/X-@morluto-000?style=flat&logo=x)](https://x.com/morluto)
 
+I write about papers and books I'm reading, and things I'm building, on my blog [here](https://morluto.bearblog.dev).
+
 Reach me on [X](https://x.com/morluto)
 
 #### Building
