@@ -13,6 +13,7 @@ Reach me on [X](https://x.com/morluto)
 
 #### Contributing to
 
+- **[x-JEPA](https://github.com/lucidrains/x-jepa)** [![GitHub stars](https://img.shields.io/github/stars/lucidrains/x-jepa?style=flat&color=gold)](https://github.com/lucidrains/x-jepa) - Correctness fixes across the JEPA training and planning stack: Wasserstein midpoint targets, unimodal Beta policies, goal/state token alignment, SIGReg dtype handling, and discrete planning action indices.
 - **[gstack](https://github.com/garrytan/gstack)** [![GitHub stars](https://img.shields.io/github/stars/garrytan/gstack?style=flat&color=gold)](https://github.com/garrytan/gstack) - #1 outside contributor; project-local /browse install hardening and setup fixes.
 - **[Model Context Protocol](https://github.com/modelcontextprotocol/typescript-sdk)** [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/typescript-sdk?style=flat&color=gold)](https://github.com/modelcontextprotocol/typescript-sdk) - TypeScript SDK packaging fix for CommonJS validator exports and Ajv.
 - **[DeepSeek Agents](https://github.com/deepseek-ai/awesome-deepseek-agent)** [![GitHub stars](https://img.shields.io/github/stars/deepseek-ai/awesome-deepseek-agent?style=flat&color=gold)](https://github.com/deepseek-ai/awesome-deepseek-agent) - DeepSeek integration guides.
