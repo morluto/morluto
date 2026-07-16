@@ -10,7 +10,7 @@ Reach me on [X](https://x.com/morluto)
 
 - **[REA: Reverse Engineer Anything](https://github.com/morluto/rea)** [![GitHub stars](https://img.shields.io/github/stars/morluto/rea?style=flat&color=gold)](https://github.com/morluto/rea) - One CLI and MCP server that lets coding agents inspect any app, understand how it works down to the binary level, and recreate features for your own product.
 - **[Preference](https://preference.net)** - Research-driven data infrastructure for trading agents.
-- **[LeanToken](https://github.com/morluto/leantoken)** [![GitHub stars](https://img.shields.io/github/stars/morluto/leantoken?style=flat&color=gold)](https://github.com/morluto/leantoken) - CLI + MCP to cut token costs for coding agents through context engineering.
+- **[LeanToken](https://github.com/morluto/leantoken)** [![GitHub stars](https://img.shields.io/github/stars/morluto/leantoken?style=flat&color=gold)](https://github.com/morluto/leantoken) - CLI + MCP to cut token costs for coding agents through context engineering. Indexes your code so agents see only what they need.
 
 #### Contributing to
 
