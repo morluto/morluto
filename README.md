@@ -15,8 +15,8 @@ Reach me on [X](https://x.com/morluto)
 
 #### Contributing to
 
-- **[gbrain](https://github.com/garrytan/gbrain)** [![GitHub stars](https://img.shields.io/github/stars/garrytan/gbrain?style=flat&color=gold)](https://github.com/garrytan/gbrain) - Trajectory regression fix: stop negative metrics from inverting the signal.
 - **[gstack](https://github.com/garrytan/gstack)** [![GitHub stars](https://img.shields.io/github/stars/garrytan/gstack?style=flat&color=gold)](https://github.com/garrytan/gstack) - #1 outside contributor; project-local /browse install hardening and setup fixes.
+- **[gbrain](https://github.com/garrytan/gbrain)** [![GitHub stars](https://img.shields.io/github/stars/garrytan/gbrain?style=flat&color=gold)](https://github.com/garrytan/gbrain) - Trajectory regression fix: stop negative metrics from inverting the signal.
 - **[Triton](https://github.com/triton-lang/triton)** [![GitHub stars](https://img.shields.io/github/stars/triton-lang/triton?style=flat&color=gold)](https://github.com/triton-lang/triton) - Autotuner fractional top_k pruning fix and unsigned tl.sum dtype promotion doc correction.
 - **[Model Context Protocol](https://github.com/modelcontextprotocol/typescript-sdk)** [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/typescript-sdk?style=flat&color=gold)](https://github.com/modelcontextprotocol/typescript-sdk) - TypeScript SDK packaging fix for CommonJS validator exports and Ajv.
 - **[RepoPrompt](https://github.com/repoprompt/repoprompt-ce)** [![GitHub stars](https://img.shields.io/github/stars/repoprompt/repoprompt-ce?style=flat&color=gold)](https://github.com/repoprompt/repoprompt-ce) - Context Builder model selection, agent-mode and tool-card reliability, workspace model drift cleanup, test harness hardening against hangs and waiter leaks, and hosted-app/XCTest sharding.
