@@ -12,6 +12,7 @@ Reach me on [X](https://x.com/morluto)
 - **[Jacobian](https://github.com/morluto/jacobian)** [![GitHub stars](https://img.shields.io/github/stars/morluto/jacobian?style=flat&color=gold)](https://github.com/morluto/jacobian) - MCP server, CLI, and Python library that gives agents composable mathematical capabilities for conjectures, counterexamples, exact computation, and independently checked evidence.
 - **[Preference](https://preference.net)** - Research-driven data infrastructure for trading agents.
 - **[LeanToken](https://github.com/morluto/leantoken)** [![GitHub stars](https://img.shields.io/github/stars/morluto/leantoken?style=flat&color=gold)](https://github.com/morluto/leantoken) - CLI + MCP to cut token costs for coding agents through context engineering. Indexes your code so agents see only what they need.
+- **[flameox](https://github.com/morluto/flameox)** [![GitHub stars](https://img.shields.io/github/stars/morluto/flameox?style=flat&color=gold)](https://github.com/morluto/flameox) - Local CLI and MCP server that helps coding agents investigate performance, memory, execution, concurrency, and reliability with evidence you can inspect and reproduce.
 - **[GitContribute](https://github.com/morluto/gitcontribute)** [![GitHub stars](https://img.shields.io/github/stars/morluto/gitcontribute?style=flat&color=gold)](https://github.com/morluto/gitcontribute) - Local-first research workbench for discovering, investigating, and preparing focused GitHub contributions with evidence.
 
 #### Contributing to
