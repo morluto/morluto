@@ -8,13 +8,13 @@ Reach me on [X](https://x.com/morluto)
 
 #### Building
 
-- **[REA: Reverse Engineer Anything](https://github.com/morluto/rea)** [![GitHub stars](https://img.shields.io/github/stars/morluto/rea?style=flat&color=gold)](https://github.com/morluto/rea) - Gives agents a way to trace how an app feature works, preserve the evidence, and recreate it for another stack—even without source code.
-- **[Jacobian](https://github.com/morluto/jacobian)** [![GitHub stars](https://img.shields.io/github/stars/morluto/jacobian?style=flat&color=gold)](https://github.com/morluto/jacobian) - Helps agents test mathematical claims by finding candidates, checking them independently, and keeping unproven results explicitly unresolved.
-- **[Preference](https://preference.net)** - Research infrastructure for prediction markets.
-- **[LeanToken](https://github.com/morluto/leantoken)** [![GitHub stars](https://img.shields.io/github/stars/morluto/leantoken?style=flat&color=gold)](https://github.com/morluto/leantoken) - Gives coding agents the smallest useful slices of a repository—code, structure, and history—within explicit token budgets.
-- **[flameox](https://github.com/morluto/flameox)** [![GitHub stars](https://img.shields.io/github/stars/morluto/flameox?style=flat&color=gold)](https://github.com/morluto/flameox) - Turns profiler traces, benchmarks, and memory captures into evidence agents can query, compare, and audit.
-- **[GitContribute](https://github.com/morluto/gitcontribute)** [![GitHub stars](https://img.shields.io/github/stars/morluto/gitcontribute?style=flat&color=gold)](https://github.com/morluto/gitcontribute) - Helps agents decide whether a GitHub contribution is worth making by assembling guidance, related work, code context, and validation evidence.
-- **[SmokingGun](https://github.com/morluto/smokinggun)** [![GitHub stars](https://img.shields.io/github/stars/morluto/smokinggun?style=flat&color=gold)](https://github.com/morluto/smokinggun) - Finds complexity hotspots and keeps optimization proposals tied to coverage, assumptions, and measurements.
+- **[REA: Reverse Engineer Anything](https://github.com/morluto/rea)** [![GitHub stars](https://img.shields.io/github/stars/morluto/rea?style=flat&color=gold)](https://github.com/morluto/rea) - Give your agents the tools to reverse-engineer anything, from native binaries to running applications, and rebuild the features they uncover.
+- **[Jacobian](https://github.com/morluto/jacobian)** [![GitHub stars](https://img.shields.io/github/stars/morluto/jacobian?style=flat&color=gold)](https://github.com/morluto/jacobian) - Pure mathematics for agents: search for examples and counterexamples, compute exactly, and independently check what a result proves.
+- **[Preference](https://preference.net)** - Research infrastructure for trading agents.
+- **[LeanToken](https://github.com/morluto/leantoken)** [![GitHub stars](https://img.shields.io/github/stars/morluto/leantoken?style=flat&color=gold)](https://github.com/morluto/leantoken) - Code intelligence for agents: find the code that matters and keep your context window and tokens lean.
+- **[flameox](https://github.com/morluto/flameox)** [![GitHub stars](https://img.shields.io/github/stars/morluto/flameox?style=flat&color=gold)](https://github.com/morluto/flameox) - Runtime evidence that helps agents trace, profile, and burn down hotspots in application and native code, GPU kernels, and inference stacks.
+- **[GitContribute](https://github.com/morluto/gitcontribute)** [![GitHub stars](https://img.shields.io/github/stars/morluto/gitcontribute?style=flat&color=gold)](https://github.com/morluto/gitcontribute) - Contribution research for agents: check repository guidance, related work, code context, and validation before writing a patch.
+- **[SmokingGun](https://github.com/morluto/smokinggun)** [![GitHub stars](https://img.shields.io/github/stars/morluto/smokinggun?style=flat&color=gold)](https://github.com/morluto/smokinggun) - Optimization evidence for agents: find complexity hotspots and test whether a proposed change is worth making.
 
 #### Contributing to
 
