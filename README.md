@@ -14,6 +14,7 @@ Reach me on [X](https://x.com/morluto)
 - **[LeanToken](https://github.com/morluto/leantoken)** [![GitHub stars](https://img.shields.io/github/stars/morluto/leantoken?style=flat&color=gold)](https://github.com/morluto/leantoken) - CLI + MCP to cut token costs for coding agents through context engineering. Indexes your code so agents see only what they need.
 - **[flameox](https://github.com/morluto/flameox)** [![GitHub stars](https://img.shields.io/github/stars/morluto/flameox?style=flat&color=gold)](https://github.com/morluto/flameox) - Local CLI and MCP server that helps coding agents investigate performance, memory, execution, concurrency, and reliability with evidence you can inspect and reproduce.
 - **[GitContribute](https://github.com/morluto/gitcontribute)** [![GitHub stars](https://img.shields.io/github/stars/morluto/gitcontribute?style=flat&color=gold)](https://github.com/morluto/gitcontribute) - Local-first research workbench for discovering, investigating, and preparing focused GitHub contributions with evidence.
+- **[SmokingGun](https://github.com/morluto/smokinggun)** [![GitHub stars](https://img.shields.io/github/stars/morluto/smokinggun?style=flat&color=gold)](https://github.com/morluto/smokinggun) - Local CLI that helps software-engineering agents find code-complexity hotspots and test optimization ideas with evidence.
 
 #### Contributing to
 
