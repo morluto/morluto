@@ -8,7 +8,7 @@ Reach me on [X](https://x.com/morluto)
 
 #### Building
 
-- **[REA: Reverse Engineer Anything](https://github.com/morluto/rea)** [![GitHub stars](https://img.shields.io/github/stars/morluto/rea?style=flat&color=gold)](https://github.com/morluto/rea) - Give your agents the tools to reverse-engineer anything, from native binaries to running applications, and rebuild the features they uncover.
+- **[REA: Reverse Engineer Anything](https://github.com/morluto/rea)** [![GitHub stars](https://img.shields.io/github/stars/morluto/rea?style=flat&color=gold)](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - **[Jacobian](https://github.com/morluto/jacobian)** [![GitHub stars](https://img.shields.io/github/stars/morluto/jacobian?style=flat&color=gold)](https://github.com/morluto/jacobian) - Pure mathematics for agents: search for examples and counterexamples, compute exactly, and independently check what a result proves.
 - **[Preference](https://preference.net)** - Research infrastructure for trading agents.
 - **[LeanToken](https://github.com/morluto/leantoken)** [![GitHub stars](https://img.shields.io/github/stars/morluto/leantoken?style=flat&color=gold)](https://github.com/morluto/leantoken) - Code intelligence for agents: find the code that matters and keep your context window and tokens lean.
