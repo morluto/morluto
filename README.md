@@ -4,7 +4,11 @@
 
 I write about papers and books I'm reading, and things I'm building, on my blog [here](https://morluto.bearblog.dev).
 
+Recently, I solved Erdos problem #81 and a number of conjectures (pending review)
+https://www.erdosproblems.com/forum/thread/81/proof-claims
+
 Reach me on [X](https://x.com/morluto)
+
 
 #### Building
 
