@@ -4,7 +4,7 @@
 
 I write about papers and books I'm reading, and things I'm building, on my blog [here](https://morluto.bearblog.dev).
 
-Recently, I solved Erdos problem #81 and a number of conjectures (pending review)
+Recently, I solved Erdos problem #81 and a number of conjectures alongside longtime collaborator [N0zoM1z0](https://github.com/N0zoM1z0) (pending review)
 https://www.erdosproblems.com/forum/thread/81/proof-claims
 
 You can reach me on [X](https://x.com/morluto) or my email [here.](morluto@hotmail.com)
