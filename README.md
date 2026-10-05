@@ -5,7 +5,7 @@
 I write about papers and books I'm reading, and things I'm building, on my blog [here](https://morluto.bearblog.dev).
 
 Most recently, I've been working on AI math. 
-I solved Erdos problem #81 and a number of conjectures alongside longtime collaborator [N0zoM1z0](https://github.com/N0zoM1z0) (pending review)
+I solved Erdos problem #81 and a number of conjectures alongside longtime collaborator [N0zoM1z0](https://github.com/N0zoM1z0) 
 https://www.erdosproblems.com/forum/thread/81/proof-claims
 
 You can reach me on [X](https://x.com/morluto) or my email [here.](morluto@hotmail.com)
