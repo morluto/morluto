@@ -8,7 +8,7 @@ Most recently, I've been working on AI math.
 I solved the 33 year old Erdos problem [#81](https://www.erdosproblems.com/forum/thread/81/proof-claims) and a number of conjectures alongside longtime collaborator [N0zoM1z0](https://github.com/N0zoM1z0) 
 
 
-You can reach me on [X](https://x.com/morluto) or my email [here.](morluto@hotmail.com)
+You can reach me on [X](https://x.com/morluto) or my email [here.](mailto:morluto@hotmail.com)
 
 #### Building
 
