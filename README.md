@@ -19,6 +19,7 @@ You can reach me on [X](https://x.com/morluto) or my email [here.](mailto:morlut
 - **[flameox](https://github.com/morluto/flameox)** [![GitHub stars](https://img.shields.io/github/stars/morluto/flameox?style=flat&color=gold)](https://github.com/morluto/flameox) - Runtime evidence that helps agents trace, profile, and burn down hotspots in application and native code, GPU kernels, and inference stacks.
 - **[GitContribute](https://github.com/morluto/gitcontribute)** [![GitHub stars](https://img.shields.io/github/stars/morluto/gitcontribute?style=flat&color=gold)](https://github.com/morluto/gitcontribute) - Contribution research for agents: check repository guidance, related work, code context, and validation before writing a patch.
 - **[SmokingGun](https://github.com/morluto/smokinggun)** [![GitHub stars](https://img.shields.io/github/stars/morluto/smokinggun?style=flat&color=gold)](https://github.com/morluto/smokinggun) - Optimization evidence for agents: find complexity hotspots and test whether a proposed change is worth making.
+- **[Awesome Reverse Engineering](https://github.com/morluto/awesome-reverse-engineering)** [![GitHub stars](https://img.shields.io/github/stars/morluto/awesome-reverse-engineering?style=flat&color=gold)](https://github.com/morluto/awesome-reverse-engineering) - Curated reverse-engineering tools and learning resources for binaries, apps, firmware, file formats, and protocols.
 
 #### Contributing to
 
