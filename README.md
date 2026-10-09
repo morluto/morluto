@@ -13,13 +13,13 @@ You can reach me on [X](https://x.com/morluto) or my email [here.](mailto:morlut
 #### Building
 
 - **[REA: Reverse Engineer Anything](https://github.com/morluto/rea)** [![GitHub stars](https://img.shields.io/github/stars/morluto/rea?style=flat&color=gold)](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
+- **[Awesome Reverse Engineering](https://github.com/morluto/awesome-reverse-engineering)** [![GitHub stars](https://img.shields.io/github/stars/morluto/awesome-reverse-engineering?style=flat&color=gold)](https://github.com/morluto/awesome-reverse-engineering) - Curated reverse-engineering tools and learning resources for binaries, apps, firmware, file formats, and protocols.
 - **[Jacobian](https://github.com/morluto/jacobian)** [![GitHub stars](https://img.shields.io/github/stars/morluto/jacobian?style=flat&color=gold)](https://github.com/morluto/jacobian) - Pure mathematics for agents: search for examples and counterexamples, compute exactly, and independently check what a result proves.
 - **[Preference](https://preference.net)** - Research infrastructure for trading agents.
 - **[LeanToken](https://github.com/morluto/leantoken)** [![GitHub stars](https://img.shields.io/github/stars/morluto/leantoken?style=flat&color=gold)](https://github.com/morluto/leantoken) - Code intelligence for agents: find the code that matters and keep your context window and tokens lean.
 - **[flameox](https://github.com/morluto/flameox)** [![GitHub stars](https://img.shields.io/github/stars/morluto/flameox?style=flat&color=gold)](https://github.com/morluto/flameox) - Runtime evidence that helps agents trace, profile, and burn down hotspots in application and native code, GPU kernels, and inference stacks.
 - **[GitContribute](https://github.com/morluto/gitcontribute)** [![GitHub stars](https://img.shields.io/github/stars/morluto/gitcontribute?style=flat&color=gold)](https://github.com/morluto/gitcontribute) - Contribution research for agents: check repository guidance, related work, code context, and validation before writing a patch.
 - **[SmokingGun](https://github.com/morluto/smokinggun)** [![GitHub stars](https://img.shields.io/github/stars/morluto/smokinggun?style=flat&color=gold)](https://github.com/morluto/smokinggun) - Optimization evidence for agents: find complexity hotspots and test whether a proposed change is worth making.
-- **[Awesome Reverse Engineering](https://github.com/morluto/awesome-reverse-engineering)** [![GitHub stars](https://img.shields.io/github/stars/morluto/awesome-reverse-engineering?style=flat&color=gold)](https://github.com/morluto/awesome-reverse-engineering) - Curated reverse-engineering tools and learning resources for binaries, apps, firmware, file formats, and protocols.
 
 #### Contributing to
 
