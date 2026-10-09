@@ -22,7 +22,7 @@ You can reach me on [X](https://x.com/morluto) or my email [here.](morluto@hotma
 
 #### Contributing to
 
-- **[gstack](https://github.com/garrytan/gstack)** [![GitHub stars](https://img.shields.io/github/stars/garrytan/gstack?style=flat&color=gold)](https://github.com/garrytan/gstack) - I wrote the first PR (not from Garry); project-local /browse install hardening and setup fixes.
+- **[gstack](https://github.com/garrytan/gstack)** [![GitHub stars](https://img.shields.io/github/stars/garrytan/gstack?style=flat&color=gold)](https://github.com/garrytan/gstack) - I wrote the first PR (not from Garry)
 - **[Triton](https://github.com/triton-lang/triton)** [![GitHub stars](https://img.shields.io/github/stars/triton-lang/triton?style=flat&color=gold)](https://github.com/triton-lang/triton) - Autotuner fractional top_k pruning fix, unsigned tl.sum dtype promotion doc correction, and invalid k value rejection in tl.topk.
 - **[NeMo labs-molt](https://github.com/NVIDIA-NeMo/labs-molt)** [![GitHub stars](https://img.shields.io/github/stars/NVIDIA-NeMo/labs-molt?style=flat&color=gold)](https://github.com/NVIDIA-NeMo/labs-molt) - Vectorized default REINFORCE returns for faster RL training.
 - **[slime](https://github.com/THUDM/slime)** [![GitHub stars](https://img.shields.io/github/stars/THUDM/slime?style=flat&color=gold)](https://github.com/THUDM/slime) - Vectorized REINFORCE++ discounted returns for faster LLM post-training RL.
