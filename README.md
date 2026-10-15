@@ -20,7 +20,7 @@ You can reach me on [X](https://x.com/morluto) or my email [here.](mailto:morlut
 - **[flameox](https://github.com/morluto/flameox)** [![GitHub stars](https://img.shields.io/github/stars/morluto/flameox?style=flat&color=gold)](https://github.com/morluto/flameox) - Runtime evidence that helps agents trace, profile, and burn down hotspots in application and native code, GPU kernels, and inference stacks.
 - **[GitContribute](https://github.com/morluto/gitcontribute)** [![GitHub stars](https://img.shields.io/github/stars/morluto/gitcontribute?style=flat&color=gold)](https://github.com/morluto/gitcontribute) - Contribution research for agents: check repository guidance, related work, code context, and validation before writing a patch.
 - **[SmokingGun](https://github.com/morluto/smokinggun)** [![GitHub stars](https://img.shields.io/github/stars/morluto/smokinggun?style=flat&color=gold)](https://github.com/morluto/smokinggun) - Optimization evidence for agents: find complexity hotspots and test whether a proposed change is worth making.
-- **[Generate Social Preview](https://github.com/morluto/generate-social-preview)** [![GitHub stars](https://img.shields.io/github/stars/morluto/generate-social-preview?style=flat&color=gold)](https://github.com/morluto/generate-social-preview) - Codex skill for social preview images grounded in a project's own images, examples, and purpose.
+- **[Generate Social Preview](https://github.com/morluto/generate-social-preview)** [![GitHub stars](https://img.shields.io/github/stars/morluto/generate-social-preview?style=flat&color=gold)](https://github.com/morluto/generate-social-preview) - Agent skill for social preview images grounded in a project's own images, examples, and purpose.
 
 #### Contributing to
 
